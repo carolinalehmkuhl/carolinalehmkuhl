@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**carolinalehmkuhl/carolinalehmkuhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Oh, look who's here. 👀
+*Looking for some questionable entertainment?*
 
-Here are some ideas to get you started:
+### Some things about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧪 Laboratory technician with an interest in pretty much everything that moves (or doesn't).
+- 🎓 Supposedly a Chemical Engineering student.
+- 💻 Exploring programming and learning how to build things in probably the hardest way possible.
+- 🧵 Embroidery enthusiast — collecting hobbies and unfinished projects.
+
+### What you'll find here
+
+A collection of personal projects, experiments, academic work and random ideas that somehow turned into code.
+
+---
+
+<p align="center">
+  <i>Perfectionist tendencies, procrastinator execution, questionable results.</i>
+</p>
