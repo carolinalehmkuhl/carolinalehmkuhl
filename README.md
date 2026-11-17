@@ -1,6 +1,6 @@
 
 # Oh, look who's here. 👀
-*Looking for some questionable entertainment?*
+*Perfectionist tendencies, procrastinator execution, questionable results.*
 
 ### Some things about me
 
@@ -12,9 +12,3 @@
 ### What you'll find here
 
 A collection of personal projects, experiments, academic work and random ideas that somehow turned into code.
-
----
-
-<p align="center">
-  <i>Perfectionist tendencies, procrastinator execution, questionable results.</i>
-</p>
